@@ -1,2 +1,2 @@
 # esercitazioniProgrammazione
-This is a repository for saving tutorials from my programming course.
+Questa è una repository per salvare le mie esercitazioni per il corso di "Laoratorio di Programmazione".
